@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T05:11:11.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="BAIow8ib7M9uD3A80OyU" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T05:11:35.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="CDf8QonEhEXhmzxPRT_L" version="20.5.1" type="github">
   <diagram id="MLwDHlMG3S8ZWIRhZEM9" name="第 1 页">
     <mxGraphModel dx="865" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="1680" y="1140" width="70" height="110" as="geometry" />
         </mxCell>
         <mxCell id="i-8zudaCYcazWKL_kzKi-46" value="COS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="890" width="60" height="80" as="geometry" />
+          <mxGeometry x="1610" y="900" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i-8zudaCYcazWKL_kzKi-47" value="Internat" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="1010" width="120" height="80" as="geometry" />
@@ -53,6 +53,17 @@
         <mxCell id="i-8zudaCYcazWKL_kzKi-57" value="静态资源" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i-8zudaCYcazWKL_kzKi-56">
           <mxGeometry x="-0.1062" y="-1" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i-8zudaCYcazWKL_kzKi-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="i-8zudaCYcazWKL_kzKi-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1500" y="970" as="sourcePoint" />
+            <mxPoint x="1430" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i-8zudaCYcazWKL_kzKi-59" value="静态资源" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i-8zudaCYcazWKL_kzKi-58">
+          <mxGeometry x="0.1928" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
