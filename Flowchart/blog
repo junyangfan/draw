@@ -1,17 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T05:07:36.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="mOp01nJTr2obeOBNu5fr" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T05:07:54.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="C0PBovL1yNyKQxf7c0rR" version="20.5.1" type="github">
   <diagram id="MLwDHlMG3S8ZWIRhZEM9" name="第 1 页">
     <mxGraphModel dx="865" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="i-8zudaCYcazWKL_kzKi-45" value="服务器（.halo）" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="1000" width="110" height="150" as="geometry" />
+          <mxGeometry x="1500" y="1020" width="110" height="150" as="geometry" />
         </mxCell>
         <mxCell id="i-8zudaCYcazWKL_kzKi-46" value="COS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="900" width="60" height="80" as="geometry" />
+          <mxGeometry x="1680" y="890" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i-8zudaCYcazWKL_kzKi-47" value="Internat" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="1010" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i-8zudaCYcazWKL_kzKi-48" value="CDN" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="940" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
