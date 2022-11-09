@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T05:09:20.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="by_pBSgbmn68ESVN3A85" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T05:09:57.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="G2OprUjKE41xX9NbL-MU" version="20.5.1" type="github">
   <diagram id="MLwDHlMG3S8ZWIRhZEM9" name="第 1 页">
     <mxGraphModel dx="865" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="i-8zudaCYcazWKL_kzKi-45" value="服务器（.halo）" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="1130" width="90" height="110" as="geometry" />
+          <mxGeometry x="1660" y="1140" width="90" height="110" as="geometry" />
         </mxCell>
         <mxCell id="i-8zudaCYcazWKL_kzKi-46" value="COS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="1680" y="890" width="60" height="80" as="geometry" />
@@ -21,6 +21,17 @@
         </mxCell>
         <mxCell id="i-8zudaCYcazWKL_kzKi-50" value="个人首页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="950" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i-8zudaCYcazWKL_kzKi-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=-15;entryPerimeter=0;" edge="1" parent="1" source="i-8zudaCYcazWKL_kzKi-49" target="i-8zudaCYcazWKL_kzKi-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1460" y="1120" as="sourcePoint" />
+            <mxPoint x="1510" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i-8zudaCYcazWKL_kzKi-52" value="图片资源" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i-8zudaCYcazWKL_kzKi-51">
+          <mxGeometry x="0.0907" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
