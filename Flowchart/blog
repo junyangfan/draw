@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T02:41:04.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="WnB_zP5vqjEiQ_i8Kt09" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-15T02:42:50.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="3tmDNuj12BorFmJt8n0D" version="20.5.3" type="github">
   <diagram id="MLwDHlMG3S8ZWIRhZEM9" name="第 1 页">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -131,6 +131,48 @@
         </mxCell>
         <mxCell id="r5Fn_Z2BuZt-L-4AaZ68-8" value="外网" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="2110" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="r5Fn_Z2BuZt-L-4AaZ68-11" value="OSS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="2350" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r5Fn_Z2BuZt-L-4AaZ68-14" value="外网" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="2330" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="r5Fn_Z2BuZt-L-4AaZ68-15" value="CDN" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="2290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r5Fn_Z2BuZt-L-4AaZ68-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r5Fn_Z2BuZt-L-4AaZ68-14" target="r5Fn_Z2BuZt-L-4AaZ68-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="2420" as="sourcePoint" />
+            <mxPoint x="1130" y="2370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r5Fn_Z2BuZt-L-4AaZ68-19" value="CDN流量" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r5Fn_Z2BuZt-L-4AaZ68-16">
+          <mxGeometry x="-0.1452" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r5Fn_Z2BuZt-L-4AaZ68-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r5Fn_Z2BuZt-L-4AaZ68-15" target="r5Fn_Z2BuZt-L-4AaZ68-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="2370" as="sourcePoint" />
+            <mxPoint x="1340" y="2320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r5Fn_Z2BuZt-L-4AaZ68-18" value="回源流量" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r5Fn_Z2BuZt-L-4AaZ68-17">
+          <mxGeometry x="-0.2046" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r5Fn_Z2BuZt-L-4AaZ68-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;exitX=0.99;exitY=0.602;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="r5Fn_Z2BuZt-L-4AaZ68-14" target="r5Fn_Z2BuZt-L-4AaZ68-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1130" y="2460" as="sourcePoint" />
+            <mxPoint x="1180" y="2410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r5Fn_Z2BuZt-L-4AaZ68-22" value="断开" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r5Fn_Z2BuZt-L-4AaZ68-21">
+          <mxGeometry x="0.1254" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
