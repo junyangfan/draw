@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T09:04:56.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="szkbktSOCa-kMeWijeSr" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T09:06:36.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="FVcOSivc_SLEW8voQbxH" version="20.5.3" type="github">
   <diagram id="MLwDHlMG3S8ZWIRhZEM9" name="第 1 页">
     <mxGraphModel dx="1221" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="r5Fn_Z2BuZt-L-4AaZ68-28" value="域名" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1317.5" y="440" width="195" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="i-8zudaCYcazWKL_kzKi-45" value="服务器（.halo）" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="1680" y="1140" width="130" height="200" as="geometry" />
+        <mxCell id="i-8zudaCYcazWKL_kzKi-45" value="服务器" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="1050" width="215" height="300" as="geometry" />
         </mxCell>
         <mxCell id="i-8zudaCYcazWKL_kzKi-46" value="&lt;br&gt;存储桶" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="1720" y="680" width="220" height="320" as="geometry" />
@@ -30,17 +30,6 @@
         </mxCell>
         <mxCell id="i-8zudaCYcazWKL_kzKi-52" value="图片资源 压缩" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="i-8zudaCYcazWKL_kzKi-51" vertex="1" connectable="0">
           <mxGeometry x="0.0907" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="i-8zudaCYcazWKL_kzKi-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-15;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="i-8zudaCYcazWKL_kzKi-45" target="i-8zudaCYcazWKL_kzKi-49" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1460" y="1120" as="sourcePoint" />
-            <mxPoint x="1510" y="1070" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="i-8zudaCYcazWKL_kzKi-55" value="操作、配置、新建文章等" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="i-8zudaCYcazWKL_kzKi-54" vertex="1" connectable="0">
-          <mxGeometry x="0.0934" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -198,6 +187,15 @@
             <mxPoint x="1540" y="760" as="sourcePoint" />
             <mxPoint x="1590" y="710" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="r5Fn_Z2BuZt-L-4AaZ68-42" value="nginx 代理接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1762.5" y="1100" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r5Fn_Z2BuZt-L-4AaZ68-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="r5Fn_Z2BuZt-L-4AaZ68-43" target="r5Fn_Z2BuZt-L-4AaZ68-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r5Fn_Z2BuZt-L-4AaZ68-43" value="项目 &amp;amp; 后台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1765" y="1160" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
