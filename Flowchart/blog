@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T08:57:55.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="KDDkmVU6lt-BPPOc1OcG" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T08:58:58.966Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="6kD-Jv_r8zM9PA_LjHJx" version="20.5.3" type="github">
   <diagram id="MLwDHlMG3S8ZWIRhZEM9" name="第 1 页">
-    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="i-8zudaCYcazWKL_kzKi-45" value="服务器（.halo）" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="1680" y="1140" width="130" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="i-8zudaCYcazWKL_kzKi-46" value="COS&lt;br&gt;(防盗链，https)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="1720" y="840" width="110" height="160" as="geometry" />
+        <mxCell id="i-8zudaCYcazWKL_kzKi-46" value="&lt;br&gt;存储桶" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="680" width="220" height="320" as="geometry" />
         </mxCell>
         <mxCell id="i-8zudaCYcazWKL_kzKi-47" value="Internat" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="1060" width="120" height="80" as="geometry" />
@@ -175,7 +175,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r5Fn_Z2BuZt-L-4AaZ68-23" value="个人主页 - 静态网站" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="1580" width="110" height="40" as="geometry" />
+          <mxGeometry x="1775" y="780" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r5Fn_Z2BuZt-L-4AaZ68-25" value="个人导航页 - 静态网站" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1765" y="730" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r5Fn_Z2BuZt-L-4AaZ68-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1890" y="620" as="sourcePoint" />
+            <mxPoint x="1890" y="630" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
