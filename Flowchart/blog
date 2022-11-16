@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T09:02:55.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="nn4Wv_b1CDRe7Fc82fqY" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T09:03:41.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="NxnpehKrtlAagN4I7YWw" version="20.5.3" type="github">
   <diagram id="MLwDHlMG3S8ZWIRhZEM9" name="第 1 页">
     <mxGraphModel dx="1221" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -189,7 +189,7 @@
         <mxCell id="r5Fn_Z2BuZt-L-4AaZ68-28" value="域名" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1315" y="450" width="195" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="r5Fn_Z2BuZt-L-4AaZ68-29" value="(www).fanjunyang.zone" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r5Fn_Z2BuZt-L-4AaZ68-29" value="(www.)fanjunyang.zone" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1327.5" y="510" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r5Fn_Z2BuZt-L-4AaZ68-31" value="nav.fanjunyang.zone" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -206,6 +206,15 @@
             <mxPoint x="1640" y="610" as="sourcePoint" />
             <mxPoint x="1690" y="560" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="r5Fn_Z2BuZt-L-4AaZ68-38" value="blog.fanjunyang.zone" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="610" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r5Fn_Z2BuZt-L-4AaZ68-39" value="image.fanjunyang.zone" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="660" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r5Fn_Z2BuZt-L-4AaZ68-40" value="图片存放" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1775" y="880" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
