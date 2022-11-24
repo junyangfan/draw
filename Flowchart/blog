@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T12:55:42.488Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JiIfQN0TuetA2MDU8oC8" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T14:09:26.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Yw6dt3jQcH226HljVRBm" version="20.6.0" type="github">
   <diagram id="MLwDHlMG3S8ZWIRhZEM9" name="第 1 页">
-    <mxGraphModel dx="1887" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1597" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -266,6 +266,9 @@
             <mxPoint x="1640" y="610" as="sourcePoint" />
             <mxPoint x="1690" y="560" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wfaTHZexcKwiyo1K2gCg-161" value="在CDN处统一&lt;br&gt;把http转https" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
+          <mxGeometry x="1730" y="350" width="135" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
