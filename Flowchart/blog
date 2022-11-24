@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T12:13:05.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="wjCX1YhMYBk5L_9RrxAX" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T12:13:44.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="l6EK2HcD6Xz7HGImTBpj" version="20.6.0" type="github">
   <diagram id="MLwDHlMG3S8ZWIRhZEM9" name="第 1 页">
-    <mxGraphModel dx="1153" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1597" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -144,50 +144,6 @@
         </mxCell>
         <mxCell id="wfaTHZexcKwiyo1K2gCg-5" value="CDN" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1630" y="460" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="wfaTHZexcKwiyo1K2gCg-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1550" y="410" as="sourcePoint" />
-            <mxPoint x="1650" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wfaTHZexcKwiyo1K2gCg-12" value="" style="shape=message;html=1;outlineConnect=0;" vertex="1" parent="wfaTHZexcKwiyo1K2gCg-11">
-          <mxGeometry width="20" height="14" relative="1" as="geometry">
-            <mxPoint x="-10" y="-7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wfaTHZexcKwiyo1K2gCg-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1560" y="420" as="sourcePoint" />
-            <mxPoint x="1660" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wfaTHZexcKwiyo1K2gCg-14" value="" style="shape=message;html=1;outlineConnect=0;" vertex="1" parent="wfaTHZexcKwiyo1K2gCg-13">
-          <mxGeometry width="20" height="14" relative="1" as="geometry">
-            <mxPoint x="-10" y="-7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wfaTHZexcKwiyo1K2gCg-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1570" y="430" as="sourcePoint" />
-            <mxPoint x="1670" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wfaTHZexcKwiyo1K2gCg-16" value="" style="shape=message;html=1;outlineConnect=0;" vertex="1" parent="wfaTHZexcKwiyo1K2gCg-15">
-          <mxGeometry width="20" height="14" relative="1" as="geometry">
-            <mxPoint x="-10" y="-7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wfaTHZexcKwiyo1K2gCg-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="wfaTHZexcKwiyo1K2gCg-5" target="r5Fn_Z2BuZt-L-4AaZ68-31">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1580" y="440" as="sourcePoint" />
-            <mxPoint x="1680" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wfaTHZexcKwiyo1K2gCg-18" value="" style="shape=message;html=1;outlineConnect=0;" vertex="1" parent="wfaTHZexcKwiyo1K2gCg-17">
-          <mxGeometry width="20" height="14" relative="1" as="geometry">
-            <mxPoint x="-10" y="-7" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="wfaTHZexcKwiyo1K2gCg-19" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1800" y="650" width="220" height="320" as="geometry" />
