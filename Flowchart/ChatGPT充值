@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T08:01:16.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="sOnyEMlMz1EH0wta5GbR" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-25T08:09:58.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lWQX-HETvEuhgrHexpp_" version="21.5.0" type="github">
   <diagram name="第 1 页" id="Y-vCKmQDuQIqrwzXfQeS">
     <mxGraphModel dx="1434" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -25,17 +25,41 @@
         <mxCell id="qDOEeZ6GIzvVBTyUYYS3-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;兑换成美刀充进 OneKey/Depay 信用卡&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF99;" parent="1" vertex="1">
           <mxGeometry x="700" y="320" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Bp1EWVHd_spzZtK4hLF2-1" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;无法支付 / 无法绑定&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fc894c;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="760" width="130" height="40" as="geometry" />
+        <mxCell id="fa6huseAAJwcw__1p8a5-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bp1EWVHd_spzZtK4hLF2-1" target="Bp1EWVHd_spzZtK4hLF2-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bp1EWVHd_spzZtK4hLF2-2" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;解决风控&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5a719a;" vertex="1" parent="1">
-          <mxGeometry x="340" y="750" width="120" height="60" as="geometry" />
+        <mxCell id="Bp1EWVHd_spzZtK4hLF2-1" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;无法支付 / 无法绑定&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fc894c;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="130" y="770" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Bp1EWVHd_spzZtK4hLF2-4" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;无法支付 / 无法绑定&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fc894c;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510" y="870" width="130" height="40" as="geometry" />
+        <mxCell id="fa6huseAAJwcw__1p8a5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bp1EWVHd_spzZtK4hLF2-2" target="Bp1EWVHd_spzZtK4hLF2-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bp1EWVHd_spzZtK4hLF2-5" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fc894c;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="580" width="130" height="40" as="geometry" />
+        <mxCell id="fa6huseAAJwcw__1p8a5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bp1EWVHd_spzZtK4hLF2-2" target="Bp1EWVHd_spzZtK4hLF2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bp1EWVHd_spzZtK4hLF2-2" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;解决风控&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5a719a;" parent="1" vertex="1">
+          <mxGeometry x="340" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bp1EWVHd_spzZtK4hLF2-4" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;微信&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fc894c;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="560" y="900" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bp1EWVHd_spzZtK4hLF2-5" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;支付宝&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fc894c;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="560" y="640" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fa6huseAAJwcw__1p8a5-5" value="&lt;font color=&quot;#ffffff&quot;&gt;1. 支付宝首页-我的-右上角客服头像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="540" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fa6huseAAJwcw__1p8a5-6" value="&lt;font color=&quot;#ffffff&quot;&gt;2.&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="590" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fa6huseAAJwcw__1p8a5-7" value="&lt;font color=&quot;#ffffff&quot;&gt;1. 支付宝首页-我的-右上角客服头像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="690" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fa6huseAAJwcw__1p8a5-8" value="&lt;font color=&quot;#ffffff&quot;&gt;1. 支付宝首页-我的-右上角客服头像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="730" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fa6huseAAJwcw__1p8a5-9" value="&lt;font color=&quot;#ffffff&quot;&gt;1. 支付宝首页-我的-右上角客服头像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="770" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
