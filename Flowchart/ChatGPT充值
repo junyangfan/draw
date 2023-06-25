@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T08:11:28.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Vo7sEcq7Vsw76vS6HXDJ" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-25T08:17:16.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PcjY-T9q2D8lQpd_N6zF" version="21.5.0" type="github">
   <diagram name="第 1 页" id="Y-vCKmQDuQIqrwzXfQeS">
     <mxGraphModel dx="1434" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -25,55 +25,87 @@
         <mxCell id="qDOEeZ6GIzvVBTyUYYS3-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;兑换成美刀充进 OneKey/Depay 信用卡&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF99;" parent="1" vertex="1">
           <mxGeometry x="700" y="320" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fa6huseAAJwcw__1p8a5-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bp1EWVHd_spzZtK4hLF2-1" target="Bp1EWVHd_spzZtK4hLF2-2">
+        <mxCell id="fa6huseAAJwcw__1p8a5-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Bp1EWVHd_spzZtK4hLF2-1" target="Bp1EWVHd_spzZtK4hLF2-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bp1EWVHd_spzZtK4hLF2-1" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;无法支付 / 无法绑定&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fc894c;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="130" y="770" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fa6huseAAJwcw__1p8a5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bp1EWVHd_spzZtK4hLF2-2" target="Bp1EWVHd_spzZtK4hLF2-5">
+        <mxCell id="fa6huseAAJwcw__1p8a5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Bp1EWVHd_spzZtK4hLF2-2" target="Bp1EWVHd_spzZtK4hLF2-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fa6huseAAJwcw__1p8a5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bp1EWVHd_spzZtK4hLF2-2" target="Bp1EWVHd_spzZtK4hLF2-4">
+        <mxCell id="fa6huseAAJwcw__1p8a5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Bp1EWVHd_spzZtK4hLF2-2" target="Bp1EWVHd_spzZtK4hLF2-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bp1EWVHd_spzZtK4hLF2-2" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;解决风控&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5a719a;" parent="1" vertex="1">
           <mxGeometry x="340" y="760" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mOXAgsHhZG4Y_CfMqm1d-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bp1EWVHd_spzZtK4hLF2-4" target="fa6huseAAJwcw__1p8a5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mOXAgsHhZG4Y_CfMqm1d-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bp1EWVHd_spzZtK4hLF2-4" target="fa6huseAAJwcw__1p8a5-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mOXAgsHhZG4Y_CfMqm1d-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bp1EWVHd_spzZtK4hLF2-4" target="fa6huseAAJwcw__1p8a5-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mOXAgsHhZG4Y_CfMqm1d-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bp1EWVHd_spzZtK4hLF2-4" target="fa6huseAAJwcw__1p8a5-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mOXAgsHhZG4Y_CfMqm1d-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bp1EWVHd_spzZtK4hLF2-4" target="fa6huseAAJwcw__1p8a5-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Bp1EWVHd_spzZtK4hLF2-4" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;微信&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fc894c;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="560" y="900" width="130" height="40" as="geometry" />
+          <mxGeometry x="490" y="925" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mOXAgsHhZG4Y_CfMqm1d-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bp1EWVHd_spzZtK4hLF2-5" target="fa6huseAAJwcw__1p8a5-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mOXAgsHhZG4Y_CfMqm1d-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bp1EWVHd_spzZtK4hLF2-5" target="fa6huseAAJwcw__1p8a5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mOXAgsHhZG4Y_CfMqm1d-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bp1EWVHd_spzZtK4hLF2-5" target="fa6huseAAJwcw__1p8a5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mOXAgsHhZG4Y_CfMqm1d-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bp1EWVHd_spzZtK4hLF2-5" target="fa6huseAAJwcw__1p8a5-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mOXAgsHhZG4Y_CfMqm1d-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bp1EWVHd_spzZtK4hLF2-5" target="fa6huseAAJwcw__1p8a5-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bp1EWVHd_spzZtK4hLF2-5" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;支付宝&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fc894c;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="560" y="640" width="130" height="40" as="geometry" />
+          <mxGeometry x="490" y="620" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fa6huseAAJwcw__1p8a5-5" value="&lt;font color=&quot;#ffffff&quot;&gt;1. 支付宝首页-我的-右上角客服头像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" vertex="1" parent="1">
-          <mxGeometry x="760" y="540" width="280" height="30" as="geometry" />
+        <mxCell id="fa6huseAAJwcw__1p8a5-5" value="&lt;font color=&quot;#ffffff&quot;&gt;1. 支付宝首页 - 我的 - 右上角客服头像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" parent="1" vertex="1">
+          <mxGeometry x="760" y="520" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fa6huseAAJwcw__1p8a5-6" value="&lt;font color=&quot;#ffffff&quot;&gt;2.&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" vertex="1" parent="1">
-          <mxGeometry x="760" y="590" width="280" height="30" as="geometry" />
+        <mxCell id="fa6huseAAJwcw__1p8a5-6" value="&lt;font color=&quot;#ffffff&quot;&gt;2. 在线服务 - 联系人工客服&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" parent="1" vertex="1">
+          <mxGeometry x="760" y="570" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fa6huseAAJwcw__1p8a5-7" value="&lt;font color=&quot;#ffffff&quot;&gt;1. 支付宝首页-我的-右上角客服头像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" vertex="1" parent="1">
-          <mxGeometry x="760" y="690" width="280" height="30" as="geometry" />
+        <mxCell id="fa6huseAAJwcw__1p8a5-7" value="&lt;font color=&quot;#ffffff&quot;&gt;3. 跟客服反馈无法绑卡或者无法支付&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" parent="1" vertex="1">
+          <mxGeometry x="760" y="625" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fa6huseAAJwcw__1p8a5-8" value="&lt;font color=&quot;#ffffff&quot;&gt;1. 支付宝首页-我的-右上角客服头像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" vertex="1" parent="1">
+        <mxCell id="fa6huseAAJwcw__1p8a5-8" value="&lt;font color=&quot;#ffffff&quot;&gt;4. 提交问题的截图，声明是个人的虚拟卡&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" parent="1" vertex="1">
+          <mxGeometry x="760" y="680" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fa6huseAAJwcw__1p8a5-9" value="&lt;font color=&quot;#ffffff&quot;&gt;5. 等待解封&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" parent="1" vertex="1">
           <mxGeometry x="760" y="730" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fa6huseAAJwcw__1p8a5-9" value="&lt;font color=&quot;#ffffff&quot;&gt;1. 支付宝首页-我的-右上角客服头像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" vertex="1" parent="1">
-          <mxGeometry x="760" y="770" width="280" height="30" as="geometry" />
+        <mxCell id="fa6huseAAJwcw__1p8a5-11" value="&lt;font color=&quot;#ffffff&quot;&gt;1. 95017 客服电话说明情况&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" parent="1" vertex="1">
+          <mxGeometry x="760" y="830" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fa6huseAAJwcw__1p8a5-11" value="&lt;font color=&quot;#ffffff&quot;&gt;1. 支付宝首页-我的-右上角客服头像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" vertex="1" parent="1">
-          <mxGeometry x="770" y="820" width="280" height="30" as="geometry" />
+        <mxCell id="fa6huseAAJwcw__1p8a5-12" value="&lt;font color=&quot;#ffffff&quot;&gt;2. 或者微信客服找人工服务&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" parent="1" vertex="1">
+          <mxGeometry x="760" y="880" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fa6huseAAJwcw__1p8a5-12" value="&lt;font color=&quot;#ffffff&quot;&gt;1. 支付宝首页-我的-右上角客服头像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" vertex="1" parent="1">
-          <mxGeometry x="760" y="870" width="280" height="30" as="geometry" />
+        <mxCell id="fa6huseAAJwcw__1p8a5-13" value="&lt;font color=&quot;#ffffff&quot;&gt;3. 说明你的卡绑定/支付不了，声明是个人的虚拟卡&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" parent="1" vertex="1">
+          <mxGeometry x="760" y="930" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fa6huseAAJwcw__1p8a5-13" value="&lt;font color=&quot;#ffffff&quot;&gt;1. 支付宝首页-我的-右上角客服头像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" vertex="1" parent="1">
-          <mxGeometry x="770" y="890" width="280" height="30" as="geometry" />
+        <mxCell id="fa6huseAAJwcw__1p8a5-14" value="&lt;font color=&quot;#ffffff&quot;&gt;5. 等待解封&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" parent="1" vertex="1">
+          <mxGeometry x="760" y="1030" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fa6huseAAJwcw__1p8a5-14" value="&lt;font color=&quot;#ffffff&quot;&gt;1. 支付宝首页-我的-右上角客服头像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" vertex="1" parent="1">
-          <mxGeometry x="770" y="920" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fa6huseAAJwcw__1p8a5-15" value="&lt;font color=&quot;#ffffff&quot;&gt;1. 支付宝首页-我的-右上角客服头像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" vertex="1" parent="1">
+        <mxCell id="fa6huseAAJwcw__1p8a5-15" value="&lt;font color=&quot;#ffffff&quot;&gt;4. 给你链接，腾讯客服公众号填写资料&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f68f40;align=left;" parent="1" vertex="1">
           <mxGeometry x="760" y="980" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
