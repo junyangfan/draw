@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T03:29:11.601Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="vQLfGrbpcotlZowuuTK8" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T03:31:02.199Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="jhdDBvnpixxhmzRzdtDy" version="23.1.7" type="github">
   <diagram name="第 1 页" id="BGES3wgCWm6-45K1lgQk">
     <mxGraphModel dx="592" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,8 +65,11 @@
         <mxCell id="alj0vp2BLRlva7AsCrCP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="alj0vp2BLRlva7AsCrCP-22" target="alj0vp2BLRlva7AsCrCP-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="alj0vp2BLRlva7AsCrCP-22" target="alj0vp2BLRlva7AsCrCP-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="alj0vp2BLRlva7AsCrCP-22" value="项目注意事项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="370" width="80" height="30" as="geometry" />
+          <mxGeometry x="160" y="385" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="alj0vp2BLRlva7AsCrCP-23" value="指定期限项目没开发完怎么办？（法律问题）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="360" width="250" height="20" as="geometry" />
@@ -75,12 +78,15 @@
           <mxGeometry x="320" y="330" width="187" height="20" as="geometry" />
         </mxCell>
         <mxCell id="alj0vp2BLRlva7AsCrCP-27" value="项目启动前，资金是否可以先到账（公/私帐）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="420" width="250" height="20" as="geometry" />
+          <mxGeometry x="320" y="450" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="alj0vp2BLRlva7AsCrCP-28" value="每月是否有固定的收入？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="265" width="187" height="20" as="geometry" />
         </mxCell>
         <mxCell id="alj0vp2BLRlva7AsCrCP-30" value="合同怎么说？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-34" value="项目风险评估？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="390" width="250" height="20" as="geometry" />
         </mxCell>
       </root>
