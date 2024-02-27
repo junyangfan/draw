@@ -1,9 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T03:16:39.776Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="23.1.7" etag="Mmw2tH8VySXOJdK3SvfH" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T03:29:11.601Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="vQLfGrbpcotlZowuuTK8" version="23.1.7" type="github">
   <diagram name="第 1 页" id="BGES3wgCWm6-45K1lgQk">
-    <mxGraphModel>
+    <mxGraphModel dx="592" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="alj0vp2BLRlva7AsCrCP-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="alj0vp2BLRlva7AsCrCP-1" target="alj0vp2BLRlva7AsCrCP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="alj0vp2BLRlva7AsCrCP-1" target="alj0vp2BLRlva7AsCrCP-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-1" value="合作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="alj0vp2BLRlva7AsCrCP-2" target="alj0vp2BLRlva7AsCrCP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="alj0vp2BLRlva7AsCrCP-2" target="alj0vp2BLRlva7AsCrCP-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="185" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="alj0vp2BLRlva7AsCrCP-2" target="alj0vp2BLRlva7AsCrCP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="alj0vp2BLRlva7AsCrCP-2" target="alj0vp2BLRlva7AsCrCP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="alj0vp2BLRlva7AsCrCP-2" target="alj0vp2BLRlva7AsCrCP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="alj0vp2BLRlva7AsCrCP-2" target="alj0vp2BLRlva7AsCrCP-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-2" value="资金注意事项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="190" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-3" value="启动资金（是否需要自己投入）？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="150" width="187" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-4" value="项目付款方式（分几次付款，什么时间节点）？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="180" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-5" value="是否需要创建/提供公司？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="120" width="187" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-6" value="资金存在哪里，打到哪里（公帐/私帐）？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="210" width="237" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-7" value="分红/盈利 怎么算？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="240" width="187" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="alj0vp2BLRlva7AsCrCP-22" target="alj0vp2BLRlva7AsCrCP-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="alj0vp2BLRlva7AsCrCP-22" target="alj0vp2BLRlva7AsCrCP-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="385" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="alj0vp2BLRlva7AsCrCP-22" target="alj0vp2BLRlva7AsCrCP-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="alj0vp2BLRlva7AsCrCP-22" target="alj0vp2BLRlva7AsCrCP-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-22" value="项目注意事项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="370" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-23" value="指定期限项目没开发完怎么办？（法律问题）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-25" value="是否软硬件结合（实体）？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="330" width="187" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-27" value="项目启动前，资金是否可以先到账（公/私帐）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-28" value="每月是否有固定的收入？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="265" width="187" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="alj0vp2BLRlva7AsCrCP-30" value="合同怎么说？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="390" width="250" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
