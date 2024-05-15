@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T06:13:42.828Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="YOVZ-0RjCzXQk0SUsYMr" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T06:20:01.666Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="yGjDwWn3bzDZmkyRoe9I" version="24.4.0" type="github">
   <diagram name="第 1 页" id="jALlf0-6yCDdCIKpA96_">
     <mxGraphModel dx="2022" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
         <mxCell id="We0MLcP-gfa2Oqp8p3ED-75" value="修改订单展示逻辑&lt;div&gt;orderDetail.updateButton == 1&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="480" width="255" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="We0MLcP-gfa2Oqp8p3ED-77" value="修改订单展示逻辑&lt;div&gt;orderDetail.updateBtn == 1 &amp;amp;&amp;amp;&lt;/div&gt;&lt;div&gt;orderDetail.isBaojie !== 1 &amp;amp;&amp;amp;&lt;/div&gt;&lt;div&gt;orderDetail.cityId == 172（灰度城市）&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="We0MLcP-gfa2Oqp8p3ED-77" value="修改订单展示逻辑&lt;div&gt;orderDetail.updateBtn == 1 &amp;amp;&amp;amp;&lt;/div&gt;&lt;div&gt;orderDetail.isUpBaojie !== 1 &amp;amp;&amp;amp;&lt;/div&gt;&lt;div&gt;orderDetail.cityId == 172（灰度城市）&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="530" y="579" width="255" height="81" as="geometry" />
         </mxCell>
         <mxCell id="We0MLcP-gfa2Oqp8p3ED-81" value="&lt;div&gt;1 普通订单（日常）&lt;/div&gt;&lt;div&gt;2 周期母单（日常、精品）&lt;/div&gt;&lt;div&gt;3 周期子单（日常、精品）&lt;/div&gt;&lt;div&gt;4 评价页面&lt;/div&gt;&lt;div&gt;5 追评页面&lt;/div&gt;&lt;div&gt;6 取消原因页面&lt;/div&gt;&lt;div&gt;7 精品保洁普通订单&lt;/div&gt;&lt;div style=&quot;&quot;&gt;default 默认进入周期母单&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
