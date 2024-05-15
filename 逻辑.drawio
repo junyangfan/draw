@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T03:35:06.762Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="rbhXrqmxsahkspj-SfR8" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T03:40:10.166Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="_Z58aQYqLMhjo-ztZrGY" version="24.4.0" type="github">
   <diagram name="第 1 页" id="jALlf0-6yCDdCIKpA96_">
     <mxGraphModel dx="1195" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,6 +51,9 @@
         <mxCell id="We0MLcP-gfa2Oqp8p3ED-13" value="path: /routerHash" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="352.5" width="120" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="We0MLcP-gfa2Oqp8p3ED-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="We0MLcP-gfa2Oqp8p3ED-23" target="We0MLcP-gfa2Oqp8p3ED-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="We0MLcP-gfa2Oqp8p3ED-23" value="/general" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="490" width="90" height="20" as="geometry" />
         </mxCell>
@@ -69,6 +72,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="205" y="528.75" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="We0MLcP-gfa2Oqp8p3ED-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="We0MLcP-gfa2Oqp8p3ED-62" target="We0MLcP-gfa2Oqp8p3ED-77">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="We0MLcP-gfa2Oqp8p3ED-62" value="/detail" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="550" width="90" height="20" as="geometry" />
@@ -122,6 +128,12 @@
             <mxPoint x="205" y="708.75" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="We0MLcP-gfa2Oqp8p3ED-75" value="修改订单展示逻辑&lt;div&gt;orderDetail.updateButton == 1&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="450" width="255" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="We0MLcP-gfa2Oqp8p3ED-77" value="修改订单展示逻辑&lt;div&gt;orderDetail.updateBtn == 1 &amp;amp;&amp;amp;&lt;/div&gt;&lt;div&gt;orderDetail.isBaojie !== 1 &amp;amp;&amp;amp;&lt;/div&gt;&lt;div&gt;[172] 包含 orderDetail.cityId&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="520" width="255" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
